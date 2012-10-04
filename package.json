@@ -1,0 +1,33 @@
+{
+  "name": "valums-fineuploader",
+  "version": "0.1.0-jam.1",
+  "description": "Multiple file upload plugin with progress-bar, drag-and-drop.",
+  "homepage": "http://fineuploader.com/",
+  "jam": {
+    "main": "fileuploader.min.js",
+    "shim": {
+      "exports": "qq"
+    },
+    "include": [
+      "demo.html",
+      "do-nothing.html",
+      "fileuploader.css",
+      "fileuploader.js",
+      "fileuploader.min.js",
+      "loading.gif"
+    ]
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/valums/file-uploader.git"
+    }
+  ],
+  "github": "https://github.com/valums/file-uploader",
+  "contributors": [
+    {
+      "name": "Chris Jones",
+      "github": "https://github.com/ChrisJones0099/valums-fineuploader.jam"
+    } 
+  ]
+}
