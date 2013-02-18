@@ -1,6 +1,6 @@
 {
   "name": "valums-fineuploader",
-  "version": "3.2-jam.1",
+  "version": "3.2.0-jam.1",
   "description": "Multiple file upload plugin with progress-bar, drag-and-drop.",
   "homepage": "http://fineuploader.com/",
   "jam": {
